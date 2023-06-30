@@ -548,7 +548,7 @@
     (uuid fe1345c5-03f5-4ebd-bc32-5115b93ffde3)
   )
 
-  (text "CPU" (at 123.5456 146.2024 180)
+  (text "CPU" (at 132.588 137.16 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 525dfa16-554f-4cb4-8e56-dac78815bef5)
   )

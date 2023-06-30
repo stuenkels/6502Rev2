@@ -414,6 +414,26 @@
     [
       "04bfd4ad-fc1b-480c-a8ba-9d4c2e9cd1ff",
       ""
+    ],
+    [
+      "84b73906-a518-4937-9c82-a8841531c725",
+      "RAM and ROM"
+    ],
+    [
+      "04de769a-4a03-4a2f-a334-f4f86184ae46",
+      "Power Input"
+    ],
+    [
+      "f4d8fa26-6c7f-40fa-b8b1-0f0136e82523",
+      "Address and Data LEDs"
+    ],
+    [
+      "cdddbd6d-8236-4d67-9e3f-6adcc6a63598",
+      "CPU"
+    ],
+    [
+      "6b052576-8316-4981-bdf5-e55699e50926",
+      "VIA"
     ]
   ],
   "text_variables": {}

@@ -1,6 +1,6 @@
 # 6502v2 Computer Build
 
-More doccumintation comming after PCB is validated
+More documentation comming after PCB is validated
 
 
 # Current Design Renders

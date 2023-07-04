@@ -542,6 +542,11 @@
     (uuid fcc4e1b7-b049-4b87-85c0-777f7fc7b2d1)
   )
 
+  (text "Due to lack of space, the address \nLEDs were not included on the final PBC"
+    (at 126.238 119.888 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 283c3280-df85-4ed2-8bfd-4625dc1fa4c3)
+  )
   (text "LEDs" (at 171.958 82.804 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 7d55c3df-6582-41dd-a4a8-3eec4c5a9d1e)

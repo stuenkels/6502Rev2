@@ -8204,7 +8204,7 @@
   (gr_text "message = $0200\n\n  lda #%10101001\n  sta message\n  lda #%00010111\n  sta message\n" (at 112 119) (layer "F.SilkS") (tstamp fb026f7b-d975-461e-a493-8556256c66b3)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
-  (gr_text "We can put some SMD parts on the same side as\nDIP chips because of standoffs and sockets\n\nDO NOT PUT SMD PARTS ON THE ROM CHIP, THE ROM \nCHIP IS IN A ZIF SOCKET\n" (at 147.7 27.1) (layer "Dwgs.User") (tstamp 01801ad3-eb12-4930-9edb-39eb572f8b3f)
+  (gr_text "We can put some SMD parts on the same side as\nDIP chips because of standoffs and sockets\n\nDO NOT PUT SMD PARTS ON THE ROM CHIP, THE ROM \nCHIP IS IN A ZIF SOCKET\n" (at 140.462 25.908) (layer "Dwgs.User") (tstamp 01801ad3-eb12-4930-9edb-39eb572f8b3f)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
 

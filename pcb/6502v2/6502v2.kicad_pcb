@@ -93,7 +93,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../gerbers/")
+      (outputdirectory "../../gerbers/")
     )
   )
 
@@ -8191,9 +8191,6 @@
   )
   (gr_text "-\n" (at 39.05 101.375 90) (layer "F.SilkS") (tstamp 6b3e4613-b47d-4ce8-8e13-6793dfa851fe)
     (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (gr_text "Anjali <333\n" (at 46.45 124.1) (layer "F.SilkS") (tstamp d4006ad6-cbbb-4940-928d-76ce2aff14aa)
-    (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
   (gr_text "LCD Int Pins\n" (at 102.65 92.35 90) (layer "F.SilkS") (tstamp d4a9378b-ef2e-4ab4-91fc-b5f9a307e62e)
     (effects (font (size 1 1) (thickness 0.15)))

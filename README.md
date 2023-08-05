@@ -14,4 +14,6 @@ It is very simple to refactor any code written for the BE6502 to work with this 
 # Pictures
 <img src="./images/topDown.jpg">
 <br>
-The LCD header was mirrored on this first run of boards, the GERBER files and KiCad project have been updated in the repo. 
+The LCD header was mirrored on this first run of boards, the GERBER files and KiCad project have been updated in the repo.
+
+If you want to build this PCB yourself, you can download the gerber.zip file and order it from JLCPCB or PCBWAY

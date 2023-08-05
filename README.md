@@ -11,7 +11,7 @@ Memory Map:
 
 It is very simple to refactor any code written for the BE6502 to work with this design, all you have to do is change the definitions for the different ports, ex PORTB = $6020 would be PORTB = $4020.  
 
-#Pictures
+# Pictures
 <img src="./images/topDown.jpg">
 <br>
 The LCD header was mirrored on this first run of boards, the GERBER files and KiCad project have been updated in the repo. 

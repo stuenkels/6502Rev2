@@ -17,3 +17,4 @@ It is very simple to refactor any code written for the BE6502 to work with this 
 The LCD header was mirrored on this first run of boards, the GERBER files and KiCad project have been updated in the repo.
 
 If you want to build this PCB yourself, you can download the gerber.zip file and order it from JLCPCB or PCBWAY
+MAKE SURE TO USE A FEMALE DB9 CONNECTOR FOR THE SERIAL PORT!!! The connecture in the picture is a male connector, and it does not work because the pins are in the wrong spots!
